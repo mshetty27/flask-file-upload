@@ -1,0 +1,1 @@
+document.writeln("<h1>Call /upload endpoint to upload a file</h1>");
